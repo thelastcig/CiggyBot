@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudhanPlayz/Discord-MusicBot.git"
+    "url": "git+"
   },
   "engines": {
     "node": "14.x"
@@ -25,9 +25,9 @@
   "author": "SudhanPlayz",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/SudhanPlayz/Discord-MusicBot/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/SudhanPlayz/Discord-MusicBot#readme",
+  "homepage": "",
   "dependencies": {
     "colors": "^1.4.0",
     "cpu-stat": "^2.0.1",
